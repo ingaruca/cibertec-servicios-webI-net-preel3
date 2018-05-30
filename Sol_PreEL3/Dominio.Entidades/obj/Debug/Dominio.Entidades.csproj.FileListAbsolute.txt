@@ -1,0 +1,5 @@
+G:\CIBERTEC\Ciclo V\cibertec-servicios-webI-net-preel3\Sol_PreEL3\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+G:\CIBERTEC\Ciclo V\cibertec-servicios-webI-net-preel3\Sol_PreEL3\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+G:\CIBERTEC\Ciclo V\cibertec-servicios-webI-net-preel3\Sol_PreEL3\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+G:\CIBERTEC\Ciclo V\cibertec-servicios-webI-net-preel3\Sol_PreEL3\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+G:\CIBERTEC\Ciclo V\cibertec-servicios-webI-net-preel3\Sol_PreEL3\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
